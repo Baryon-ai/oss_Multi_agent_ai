@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "MCP",
+    "requests_per_second": 2000,
+    "avg_response_time": 0.015,
+    "success_rate": 0.98
+  },
+  {
+    "protocol": "A2A",
+    "requests_per_second": 1500,
+    "avg_response_time": 0.025,
+    "success_rate": 0.96
+  },
+  {
+    "protocol": "AGP",
+    "requests_per_second": 8000,
+    "avg_response_time": 0.005,
+    "success_rate": 0.99
+  },
+  {
+    "protocol": "ACP",
+    "requests_per_second": 1800,
+    "avg_response_time": 0.02,
+    "success_rate": 0.97
+  }
+]

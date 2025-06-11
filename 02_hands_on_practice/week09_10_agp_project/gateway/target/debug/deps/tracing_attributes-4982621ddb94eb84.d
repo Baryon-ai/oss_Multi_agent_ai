@@ -1,0 +1,7 @@
+/Users/martin/Claude/oss_0611/02_hands_on_practice/week09_10_agp_project/gateway/target/debug/deps/libtracing_attributes-4982621ddb94eb84.dylib: /Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/tracing-attributes-0.1.29/src/lib.rs /Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/tracing-attributes-0.1.29/src/attr.rs /Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/tracing-attributes-0.1.29/src/expand.rs
+
+/Users/martin/Claude/oss_0611/02_hands_on_practice/week09_10_agp_project/gateway/target/debug/deps/tracing_attributes-4982621ddb94eb84.d: /Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/tracing-attributes-0.1.29/src/lib.rs /Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/tracing-attributes-0.1.29/src/attr.rs /Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/tracing-attributes-0.1.29/src/expand.rs
+
+/Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/tracing-attributes-0.1.29/src/lib.rs:
+/Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/tracing-attributes-0.1.29/src/attr.rs:
+/Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/tracing-attributes-0.1.29/src/expand.rs:

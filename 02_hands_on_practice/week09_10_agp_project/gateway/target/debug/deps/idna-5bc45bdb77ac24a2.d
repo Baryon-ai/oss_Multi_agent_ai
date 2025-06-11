@@ -1,0 +1,8 @@
+/Users/martin/Claude/oss_0611/02_hands_on_practice/week09_10_agp_project/gateway/target/debug/deps/libidna-5bc45bdb77ac24a2.rmeta: /Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/lib.rs /Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/deprecated.rs /Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/punycode.rs /Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/uts46.rs
+
+/Users/martin/Claude/oss_0611/02_hands_on_practice/week09_10_agp_project/gateway/target/debug/deps/idna-5bc45bdb77ac24a2.d: /Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/lib.rs /Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/deprecated.rs /Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/punycode.rs /Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/uts46.rs
+
+/Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/lib.rs:
+/Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/deprecated.rs:
+/Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/punycode.rs:
+/Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/idna-1.0.3/src/uts46.rs:

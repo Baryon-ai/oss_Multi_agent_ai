@@ -1,0 +1,4 @@
+cargo:rerun-if-changed=proto/agp.proto
+cargo:rerun-if-changed=proto
+cargo:rerun-if-changed=proto/health.proto
+cargo:rerun-if-changed=proto

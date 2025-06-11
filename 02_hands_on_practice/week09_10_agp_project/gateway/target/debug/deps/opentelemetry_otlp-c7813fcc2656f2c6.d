@@ -1,0 +1,11 @@
+/Users/martin/Claude/oss_0611/02_hands_on_practice/week09_10_agp_project/gateway/target/debug/deps/libopentelemetry_otlp-c7813fcc2656f2c6.rmeta: /Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.14.0/src/lib.rs /Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.14.0/src/exporter/mod.rs /Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.14.0/src/exporter/tonic/mod.rs /Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.14.0/src/exporter/tonic/trace.rs /Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.14.0/src/span.rs
+
+/Users/martin/Claude/oss_0611/02_hands_on_practice/week09_10_agp_project/gateway/target/debug/deps/opentelemetry_otlp-c7813fcc2656f2c6.d: /Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.14.0/src/lib.rs /Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.14.0/src/exporter/mod.rs /Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.14.0/src/exporter/tonic/mod.rs /Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.14.0/src/exporter/tonic/trace.rs /Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.14.0/src/span.rs
+
+/Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.14.0/src/lib.rs:
+/Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.14.0/src/exporter/mod.rs:
+/Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.14.0/src/exporter/tonic/mod.rs:
+/Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.14.0/src/exporter/tonic/trace.rs:
+/Users/martin/.asdf/installs/rust/1.84.0/registry/src/index.crates.io-6f17d22bba15001f/opentelemetry-otlp-0.14.0/src/span.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.14.0

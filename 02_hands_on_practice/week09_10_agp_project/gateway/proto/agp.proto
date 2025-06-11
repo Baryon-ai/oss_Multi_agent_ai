@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+package agp;
+
+service AgpGateway {
+  rpc SendMessage (MessageRequest) returns (MessageResponse);
+  rpc GetHealth (HealthRequest) returns (HealthResponse);
+}
+
+message MessageRequest {
+  string message_id = 1;
+  string from = 2;
+  string to = 3;
+  string content = 4;
+  map<string, string> metadata = 5;
+}
+
+message MessageResponse {
+  string message_id = 1;
+  string status = 2;
+  map<string, string> metadata = 3;
+}
+
+message HealthRequest {}
+
+message HealthResponse {
+  string status = 1;
+} 
